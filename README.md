@@ -7,3 +7,5 @@ En este repositorio vamos a mantener los cuadernos del diplomado en ciencia de d
 - 02 Python
 - 03 Numpy
 - 04 Graficos
+- 05 Mapas
+
